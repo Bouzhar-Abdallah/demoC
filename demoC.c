@@ -1,9 +1,11 @@
-
-#include "stdlib.h"
-#include "stdio.h"
+#include "demoC.h"
 
 int main(){
+    
+    show();
+    show();
+    show();
 
-    printf("hello world !");
     return 0;
 }
+
